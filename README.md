@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Yashraj Desai — GitSkins Identity" />
+<img src="banner.svg" width="100%" alt="Yashraj Desai — GitSkins Living Identity" />
 
 # YASHRAJ DESAI<span style="color:#f04444">.</span>
 
