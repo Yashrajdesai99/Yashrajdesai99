@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/worldscape.webp" width="100%" alt="A cinematic red-lit science-fiction landscape representing curiosity and building beyond the horizon" />
+<img src="worldscape.webp" width="100%" alt="A cinematic red-lit science-fiction landscape representing curiosity and building beyond the horizon" />
 
 # YASHRAJ DESAI<span style="color:#f04444">.</span>
 
@@ -25,7 +25,7 @@ I’m **Yashraj Desai**, an IT Engineering student who enjoys figuring out how s
 I learn by building: experiment, break things safely, understand what happened, then improve the result. I’m open to thoughtful collaboration and useful open source.
 
 <div align="center">
-<img src="assets/build-loop.svg" width="100%" alt="Build, learn, ship — the iteration loop" />
+<img src="build-loop.svg" width="100%" alt="Build, learn, ship — the iteration loop" />
 </div>
 
 ## 01 / SELECTED EXPERIMENTS
@@ -33,7 +33,7 @@ I learn by building: experiment, break things safely, understand what happened, 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Yashrajdesai99/museo"><img src="assets/project-museo.svg" width="100%" alt="Museo: a digital museum with a futuristic reception counter and robot guide" /></a>
+<a href="https://github.com/Yashrajdesai99/museo"><img src="project-museo.svg" width="100%" alt="Museo: a digital museum with a futuristic reception counter and robot guide" /></a>
 
 ### [MUSEO ↗](https://github.com/Yashrajdesai99/museo)
 **A digital museum experience**
@@ -43,7 +43,7 @@ Exploring a more immersive way to experience cultural spaces, with a futuristic 
 `TypeScript` · `Interactive experience`
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Yashrajdesai99/PriceSentinel"><img src="assets/project-pricesentinel.svg" width="100%" alt="PriceSentinel project art" /></a>
+<a href="https://github.com/Yashrajdesai99/PriceSentinel"><img src="project-pricesentinel.svg" width="100%" alt="PriceSentinel project art" /></a>
 
 ### [PRICESENTINEL ↗](https://github.com/Yashrajdesai99/PriceSentinel)
 **Price monitoring in Python**
@@ -55,7 +55,7 @@ A practical project focused on monitoring prices and turning small automations i
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Yashrajdesai99/smart-study-tracker"><img src="assets/project-study.svg" width="100%" alt="Smart Study Tracker project art" /></a>
+<a href="https://github.com/Yashrajdesai99/smart-study-tracker"><img src="project-study.svg" width="100%" alt="Smart Study Tracker project art" /></a>
 
 ### [SMART STUDY TRACKER ↗](https://github.com/Yashrajdesai99/smart-study-tracker)
 **Make learning easier to organise**
@@ -65,7 +65,7 @@ A study-tracking project built around tasks, structure, and steady progress.
 `Python` · `Productivity`
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Yashrajdesai99/Personal-Expense-Tracker"><img src="assets/project-expense.svg" width="100%" alt="Personal Expense Tracker project art" /></a>
+<a href="https://github.com/Yashrajdesai99/Personal-Expense-Tracker"><img src="project-expense.svg" width="100%" alt="Personal Expense Tracker project art" /></a>
 
 ### [PERSONAL EXPENSE TRACKER ↗](https://github.com/Yashrajdesai99/Personal-Expense-Tracker)
 **A clearer view of everyday spending**
@@ -77,7 +77,7 @@ A Python utility concept for recording and organising personal expenses.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Yashrajdesai99/python-journey"><img src="assets/project-python.svg" width="100%" alt="Python Journey project art" /></a>
+<a href="https://github.com/Yashrajdesai99/python-journey"><img src="project-python.svg" width="100%" alt="Python Journey project art" /></a>
 
 ### [PYTHON JOURNEY ↗](https://github.com/Yashrajdesai99/python-journey)
 **Learning in public**
@@ -87,7 +87,7 @@ A living collection of Python practice, small experiments, and progress through 
 `Python` · `Learning log`
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Yashrajdesai99/Yashrajdesai99"><img src="assets/project-profile.svg" width="100%" alt="Profile source: a custom visual identity system" /></a>
+<a href="https://github.com/Yashrajdesai99/Yashrajdesai99"><img src="project-profile.svg" width="100%" alt="Profile source: a custom visual identity system" /></a>
 
 ### [PROFILE SOURCE ↗](https://github.com/Yashrajdesai99/Yashrajdesai99)
 **This profile, made from vectors**
@@ -102,7 +102,7 @@ A custom profile design system with original SVG artwork and an optional interac
 ## 02 / TOOLS I REACH FOR
 
 <div align="center">
-<img src="assets/toolchain.svg" width="100%" alt="Custom toolchain map" />
+<img src="toolchain.svg" width="100%" alt="Custom toolchain map" />
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,html,css,mysql,git,github,linux,vscode&theme=dark&perline=7" alt="Technologies and tools" />
 </div>
@@ -114,7 +114,7 @@ A custom profile design system with original SVG artwork and an optional interac
 ## 03 / THE WORKING RULES
 
 <div align="center">
-<img src="assets/principles.svg" width="100%" alt="Build with intent, explore deeply, and refine the details" />
+<img src="principles.svg" width="100%" alt="Build with intent, explore deeply, and refine the details" />
 </div>
 
 - **Build to understand.** Concepts stick when I turn them into something that works.
@@ -122,12 +122,19 @@ A custom profile design system with original SVG artwork and an optional interac
 - **Design the experience.** Useful software should feel considered, not merely functional.
 - **Keep refining.** Every project is another chance to improve the craft.
 
-## 04 / OPEN CHANNEL
+## 04 / ACTIVITY TRACE
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashrajdesai99&show_icons=true&bg_color=0b0b0d&title_color=f04444&text_color=f2eeee&icon_color=f04444&hide_border=true" width="49%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Yashrajdesai99&background=0b0b0d&border=0b0b0d&stroke=f04444&ring=f04444&fire=f04444&currStreakNum=f2eeee&sideNums=f2eeee&currStreakLabel=f04444&sideLabels=f2eeee&dates=888888&hide_border=true" width="49%" alt="Streak Stats" />
+</div>
+
+## 05 / OPEN CHANNEL
 
 Have a useful idea, an interesting technical challenge, or an open-source project that could use another set of hands? [Reach me through GitHub discussions or issues](https://github.com/Yashrajdesai99) and let’s compare notes.
 
 <div align="center">
-<img src="assets/footer.svg" width="100%" alt="Keep exploring. Make something real." />
+<img src="footer.svg" width="100%" alt="Keep exploring. Make something real." />
 
 <br/>
 
