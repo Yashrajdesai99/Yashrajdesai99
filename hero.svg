@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="660" viewBox="0 0 1280 660" role="img" aria-labelledby="title desc">
+<title id="title">Yashraj Desai — YASHRAJ.EXE</title>
+<desc id="desc">A custom cinematic developer identity: obsidian architecture, laser-red lighting, perspective grids, a floating faceted monolith and animated orbital traces.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08080a"/><stop offset=".48" stop-color="#151214"/><stop offset="1" stop-color="#09090b"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#ef343c" stop-opacity=".28"/><stop offset=".45" stop-color="#86151d" stop-opacity=".12"/><stop offset="1" stop-color="#08080a" stop-opacity="0"/></radialGradient>
+  <linearGradient id="redFace" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff7777"/><stop offset=".45" stop-color="#bc2931"/><stop offset="1" stop-color="#4c1118"/></linearGradient>
+  <linearGradient id="darkFace" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#424044"/><stop offset="1" stop-color="#121114"/></linearGradient>
+  <linearGradient id="beam"><stop stop-color="#f04444" stop-opacity="0"/><stop offset=".5" stop-color="#ff6868"/><stop offset="1" stop-color="#f04444" stop-opacity="0"/></linearGradient>
+  <pattern id="microgrid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#fff" stroke-opacity=".045" stroke-width="1"/></pattern>
+  <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#f04444" fill-opacity=".35"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="14"/></filter>
+  <filter id="shadow"><feGaussianBlur stdDeviation="6"/></filter>
+  <clipPath id="frame"><rect width="1280" height="660" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+  <rect width="1280" height="660" fill="url(#bg)"/><rect width="1280" height="660" fill="url(#microgrid)"/>
+  <ellipse cx="908" cy="305" rx="410" ry="390" fill="url(#halo)"/>
+  <path d="M0 450L1280 275M0 510L1280 335M0 570L1280 395M0 630L1280 455" stroke="#f04444" stroke-opacity=".055"/>
+  <path d="M640 660L865 310L1090 660M730 660L865 310L1000 660M820 660L865 310L910 660" stroke="#ff5d61" stroke-opacity=".11" fill="none"/>
+  <path d="M600 122H1110M600 132H890" stroke="url(#beam)" stroke-width="2" class="scanner"/>
+  <path d="M520 540H1200" stroke="url(#beam)" stroke-width="2" class="scanner slow"/>
+  <g transform="translate(916 318)">
+    <ellipse cy="191" rx="228" ry="38" fill="#f04444" opacity=".25" filter="url(#glow)"/>
+    <ellipse cy="178" rx="175" ry="19" fill="#030304" opacity=".8" filter="url(#shadow)"/>
+    <g class="rings" fill="none" stroke-linecap="round">
+      <ellipse rx="240" ry="78" transform="rotate(-21)" stroke="#ff656b" stroke-opacity=".72" stroke-width="1.5"/>
+      <ellipse rx="210" ry="102" transform="rotate(58)" stroke="#f04444" stroke-opacity=".45" stroke-dasharray="3 10"/>
+      <ellipse rx="182" ry="132" transform="rotate(112)" stroke="#ffb0b0" stroke-opacity=".32" stroke-dasharray="2 13"/>
+    </g>
+    <g class="object">
+      <path d="M0 -178L143 -94L0 -10L-143 -94Z" fill="url(#redFace)" stroke="#ff8b8e" stroke-opacity=".9" stroke-width="1.4"/>
+      <path d="M-143 -94L0 -10V153L-143 70Z" fill="url(#darkFace)" stroke="#f04444" stroke-opacity=".8" stroke-width="1.4"/>
+      <path d="M0 -10L143 -94V70L0 153Z" fill="#1c171a" stroke="#fa5258" stroke-opacity=".9" stroke-width="1.4"/>
+      <path d="M0 -178V-10M-143 -94L0 -10L143 -94M0 -10V153" stroke="#ff9b9e" stroke-opacity=".65" fill="none"/>
+      <path d="M-87 -94L0 -144L87 -94L0 -44Z" fill="#0c0b0d" stroke="#ff7378" stroke-opacity=".7"/>
+      <path d="M-92 18L0 72L92 18M-92 40L0 94L92 40" fill="none" stroke="#f04444" stroke-opacity=".8"/>
+      <path d="M0 -10L75 34L75 88L0 44Z" fill="#050506" fill-opacity=".65"/>
+      <circle r="4" fill="#fff"/><circle r="13" fill="#f04444" opacity=".45" filter="url(#shadow)"/>
+    </g>
+    <g fill="#ff7b7f"><circle cx="-206" cy="-100" r="3"/><circle cx="190" cy="-14" r="2.5"/><circle cx="80" cy="-225" r="2"/><circle cx="-137" cy="115" r="2.5"/></g>
+  </g>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+    <text x="66" y="65" fill="#ff5d61" font-size="12" letter-spacing="4">INDEPENDENTLY CURIOUS / ALWAYS BUILDING</text>
+    <path d="M66 84H300" stroke="#f04444" stroke-width="2"/><path d="M300 84H350" stroke="#f04444" stroke-opacity=".25"/>
+    <text x="60" y="220" fill="#f7f1f1" font-family="Arial,Helvetica,sans-serif" font-size="78" font-weight="800" letter-spacing="-4">YASHRAJ</text>
+    <text x="60" y="304" fill="#f7f1f1" font-family="Arial,Helvetica,sans-serif" font-size="78" font-weight="800" letter-spacing="-4">DESAI<tspan fill="#f04444">.</tspan></text>
+    <text x="67" y="351" fill="#ff5d61" font-size="15" letter-spacing="3.5">CREATIVE DEVELOPER IN PROGRESS</text>
+    <text x="67" y="392" fill="#d0c8ca" font-family="Arial,Helvetica,sans-serif" font-size="17">Code, systems, and digital experiences.</text>
+    <text x="67" y="421" fill="#81777a" font-size="12" letter-spacing="1.5">IT ENGINEERING STUDENT  /  PALANPUR, INDIA</text>
+    <g transform="translate(66 474)">
+      <rect width="128" height="39" rx="5" fill="#f04444"/><text x="64" y="25" fill="#13090a" text-anchor="middle" font-size="11" font-weight="800" letter-spacing="1.2">01  BUILD</text>
+      <rect x="141" width="128" height="39" rx="5" fill="#171518" stroke="#55484b"/><text x="205" y="25" fill="#eee6e7" text-anchor="middle" font-size="11" letter-spacing="1.2">02  EXPLORE</text>
+      <rect x="282" width="128" height="39" rx="5" fill="#171518" stroke="#55484b"/><text x="346" y="25" fill="#eee6e7" text-anchor="middle" font-size="11" letter-spacing="1.2">03  REFINE</text>
+    </g>
+    <text x="66" y="598" fill="#686164" font-size="11" letter-spacing="2.5">YASHRAJ.EXE  /  PERSONAL BUILD LOG</text>
+    <text x="1208" y="598" fill="#f04444" font-size="11" text-anchor="end" letter-spacing="2">SYSTEM 001 — ONLINE</text>
+  </g>
+  <g fill="url(#dots)" opacity=".7"><rect x="1094" y="54" width="112" height="62"/></g>
+  <rect x="16" y="16" width="1248" height="628" rx="14" fill="none" stroke="#fff" stroke-opacity=".13"/>
+  <path d="M16 60V16H60M1220 16H1264V60M16 600V644H60M1220 644H1264V600" fill="none" stroke="#f04444" stroke-width="2"/>
+</g>
+<style>
+.object{transform-origin:0px 0px;animation:float 7s ease-in-out infinite}.rings{transform-origin:0px 0px;animation:rotate 28s linear infinite}.scanner{animation:sweep 6s ease-in-out infinite}.scanner.slow{animation-delay:3s}@keyframes float{0%,100%{transform:translateY(0) rotate(0)}50%{transform:translateY(-13px) rotate(1deg)}}@keyframes rotate{to{transform:rotate(360deg)}}@keyframes sweep{0%,100%{opacity:.12;transform:translateX(-18px)}50%{opacity:1;transform:translateX(30px)}}@media(prefers-reduced-motion:reduce){.object,.rings,.scanner{animation:none}}
+</style>
+</svg>
