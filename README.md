@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="worldscape.webp" width="100%" alt="A cinematic red-lit science-fiction landscape representing curiosity and building beyond the horizon" />
+<img src="banner.png" width="100%" alt="Yashraj Desai — GitSkins Identity" />
 
 # YASHRAJ DESAI<span style="color:#f04444">.</span>
 
